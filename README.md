@@ -20,7 +20,7 @@ I started out building for the web — picking up HTML, CSS, JavaScript, and the
 
 - 🎓 &nbsp;B.E. in Electrical & Electronics Engineering, BITS Pilani (2025–2029)
 - 🤖 &nbsp;ML Team Member @ **ACM BPHC Chapter**
-- ⚡ &nbsp;Operations Member @ **IEEE Student Branch, BITS Pilani**
+- ⚡ &nbsp;ML & Operations Member @ **IEEE Student Branch, BITS Pilani**
 - 📫 &nbsp;Reach me at **visit.sakshamx@gmail.com**
 
 ---
