@@ -10,11 +10,9 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshamDev)
 
 </div>
----
-
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=EEE+%40+BITS+Pilani+%7C+Hyderabad;Building+at+the+intersection+of+signals+%2B+intelligence)](https://git.io/typing-svg)
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=1200&color=00FF88&center=true&vCenter=true&width=750&lines=EEE+%40+BITS+Pilani+Hyderabad;Signals+%2B+Intelligence+%7C+ML+%7C+Systems;Turning+math+into+models+into+systems" />
 
 </div>
 
