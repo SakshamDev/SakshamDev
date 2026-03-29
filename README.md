@@ -1,24 +1,15 @@
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║    SAKSHAM.OS  ──  kernel v1.0.x  ──  booting sequence...       ║
-║                                                                  ║
-║    [██████████████████████████████████████] 100%                 ║
-║                                                                  ║
-║    > Loading: curiosity.dll            [ OK ]                    ║
-║    > Loading: problem_solver.exe       [ OK ]                    ║
-║    > Loading: coffee_dependency.pkg    [ OK ]                    ║
-║    > Mounting: BITS_Pilani_Hyderabad   [ OK ]                    ║
-║    > Starting: ml_research.service     [ OK ]                    ║
-║                                                                  ║
-║    System ready. Welcome to my profile.                          ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+# Saksham Gupta
+
+### EEE Undergrad @ BITS Pilani · ML Researcher · Builder
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamgupta19)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visit.sakshamx@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/SakshamDev/portfolio)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SakshamDev)
 
 </div>
-
 ---
 
 <div align="center">
