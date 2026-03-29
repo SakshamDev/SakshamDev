@@ -12,51 +12,32 @@
 
 <br/>
 
-### 👨‍💻 About Me
+# Hi, I'm Saksham Gupta 👋
 
-*   🎓 **Education:** Pursuing a Bachelor of Engineering in **Electrical & Electronics (EEE)** at **BITS Pilani, Hyderabad Campus** (Class of 2029).
-*   🤖 **Focus Area:** Specializing in the intersection of **Machine Learning**, **Data Science**, and **Full-stack Web Development**.
-*   🚀 **Currently Building:** *Indian Equity Portfolio Optimizer* — A full-stack tool using Modern Portfolio Theory to compute feasible target returns and optimal weightings.
-*   🤝 **Communities:** Active member in the **Machine Learning Team (ACM BPHC)** & **Operations/ML Team (IEEE Student Branch)**.
+**EEE Undergrad @ BITS Pilani · Web Dev growing into ML · Building things that matter**
 
-<br/>
-
-### 🛠️ Tech Stack & Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,html,css&perline=6" alt="Languages" />
-  <br>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,scikitlearn,git,github,wordpress&perline=6" alt="Tools & Frameworks" />
-</div>
-
-<br/>
-
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SakshamDev&show_icons=true&title_color=fbbf24&icon_color=fbbf24&text_color=ffffff&bg_color=0a0a0a&hide_border=true&theme=vue-dark" alt="Saksham's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SakshamDev&theme=vue-dark&hide_border=true&background=0a0a0a&ring=fbbf24&fire=fbbf24&currStreakNum=ffffff&currStreakLabel=fbbf24&sideNums=ffffff&sideLabels=ffffff&dates=ffffff" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-### 🚀 Featured Projects
-
-| Project | Description | Stack |
-| :--- | :--- | :--- |
-| **[Indian Equity Optimizer](https://portfolio-optimizer.sakshamdev.tech)** | Full-stack platform implementing Modern Portfolio Theory to dynamically source NSE ticker data (Yahoo Finance) and solve for target-return metrics. | `Python`, `Web`, `Finance` |
-| **[Heart Disease Predictor](https://github.com/SakshamDev/heart-disease-prediction)** | Machine Learning classification pipeline achieving 86.67% accuracy through custom feature engineering and rigorous cross-validation. | `Python`, `Scikit-Learn` |
-| **CGPA Target Tracker** | A BITS-specific web tool allowing students to plot sem-by-sem course progression and precisely calculate target grades for specific CGPA blocks. | `HTML`, `CSS`, `JS` |
-| **[Developer Portfolio](https://github.com/SakshamDev/portfolio)** | A futuristic glassmorphic portfolio featuring custom canvas-rendered neural network animations and completely vanilla responsive design. | `HTML`, `CSS`, `JS` |
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SakshamDev&theme=react-dark&bg_color=0a0a0a&color=fbbf24&line=fbbf24&point=ffffff" alt="Saksham's Activity Graph" />
-</div>
+Always learning. Always building. Currently sharpening my skills in Open Source and preparing for **Google Summer of Code (GSoC)**.
 
 ---
 
-<div align="center">
-  <i>Let's connect and build something awesome together! 🚀</i>
+### 👨‍💻 About Me
+- 🔭 **Currently Building:** [Indian Equity Portfolio Optimizer](https://portfolio-optimizer.sakshamdev.tech) — A full-stack tool using Modern Portfolio Theory.
+- 🌱 **Learning:** Advanced Machine Learning (Scikit-Learn, Pandas) and Data Science.
+- 🤝 **Communities:** Active member in the **Machine Learning Team (ACM BPHC)** & **Operations/ML Team (IEEE Student Branch)**.
+- 🎯 **Goal:** Combine my background in Electronics with ML and Web Development to build impactful tech and contribute heavily to open-source via GSoC.
+
+### 🛠️ Tech Stack
+- **Languages:** Python, C++, C, JavaScript, HTML/CSS
+- **Tools & Frameworks:** React, Node.js, Scikit-Learn, Git/GitHub
+
+### 🚀 Featured Projects
+- 📈 **[Indian Equity Optimizer](https://portfolio-optimizer.sakshamdev.tech)** — Full-stack tool optimizing Indian stock portfolios using dynamic NSE ticker data.
+- 🫀 **[Heart Disease Predictor](https://github.com/SakshamDev/heart-disease-prediction)** — ML classification pipeline achieving 86.67% accuracy through custom feature engineering.
+- 💻 **[Developer Portfolio](https://github.com/SakshamDev/portfolio)** — A clean, responsive portfolio showcasing custom canvas-rendered animations.
+
+### 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamgupta19)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat&logo=Vercel&logoColor=fbbf24)](https://github.com/SakshamDev/portfolio)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:visit.sakshamx@gmail.com)
+
 </div>
