@@ -143,23 +143,6 @@ PID   PROCESS                     CPU    STATUS
 
 ---
 
-## `$ htop --github-stats`
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=SakshamDev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9" height="160"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9" height="160"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=SakshamDev&theme=dark&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)](https://git.io/streak-stats)
-
-</div>
-
----
 
 <div align="center">
 
@@ -173,7 +156,5 @@ PID   PROCESS                     CPU    STATUS
 ║                                                      ║
 ╚══════════════════════════════════════════════════════╝
 ```
-
-![Profile Views](https://komarev.com/ghpvc/?username=SakshamDev&color=00FF88&style=for-the-badge&label=PROFILE+VISITORS)
 
 </div>
