@@ -1,43 +1,190 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0a0a0a&height=250&section=header&text=Saksham%20Gupta&fontSize=80&fontColor=fbbf24&animation=fadeIn&fontAlignY=35" alt="Header" />
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=FBBF24&center=true&vCenter=true&width=500&lines=Machine+Learning+Enthusiast;Full-Stack+Web+Developer;EEE+Undergrad+%40+BITS+Pilani;Building+things+that+matter)](https://git.io/typing-svg)
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║    SAKSHAM.OS  ──  kernel v1.0.x  ──  booting sequence...       ║
+║                                                                  ║
+║    [██████████████████████████████████████] 100%                 ║
+║                                                                  ║
+║    > Loading: curiosity.dll            [ OK ]                    ║
+║    > Loading: problem_solver.exe       [ OK ]                    ║
+║    > Loading: coffee_dependency.pkg    [ OK ]                    ║
+║    > Mounting: BITS_Pilani_Hyderabad   [ OK ]                    ║
+║    > Starting: ml_research.service     [ OK ]                    ║
+║                                                                  ║
+║    System ready. Welcome to my profile.                          ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-  <p align="center">
-    <a href="https://linkedin.com/in/sakshamgupta19"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-    <a href="mailto:visit.sakshamx@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://github.com/SakshamDev/portfolio"><img src="https://img.shields.io/badge/Portfolio-0a0a0a?style=for-the-badge&logo=Vercel&logoColor=fbbf24" alt="Portfolio" /></a>
-  </p>
 </div>
-
-<br/>
-
-# Hi, I'm Saksham Gupta 👋
-
-**EEE Undergrad @ BITS Pilani · Web Dev growing into ML · Building things that matter**
-
-Always learning. Always building. Currently sharpening my skills in Open Source and preparing for **Google Summer of Code (GSoC)**.
 
 ---
 
-### 👨‍💻 About Me
-- 🔭 **Currently Building:** [Indian Equity Portfolio Optimizer](https://portfolio-optimizer.sakshamdev.tech) — A full-stack tool using Modern Portfolio Theory.
-- 🌱 **Learning:** Advanced Machine Learning (Scikit-Learn, Pandas) and Data Science.
-- 🤝 **Communities:** Active member in the **Machine Learning Team (ACM BPHC)** & **Operations/ML Team (IEEE Student Branch)**.
-- 🎯 **Goal:** Combine my background in Electronics with ML and Web Development to build impactful tech and contribute heavily to open-source via GSoC.
+<div align="center">
 
-### 🛠️ Tech Stack
-- **Languages:** Python, C++, C, JavaScript, HTML/CSS
-- **Tools & Frameworks:** React, Node.js, Scikit-Learn, Git/GitHub
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00FF88&center=true&vCenter=true&multiline=true&width=600&height=80&lines=EEE+%40+BITS+Pilani+%7C+Hyderabad;Building+at+the+intersection+of+signals+%2B+intelligence)](https://git.io/typing-svg)
 
-### 🚀 Featured Projects
-- 📈 **[Indian Equity Optimizer](https://portfolio-optimizer.sakshamdev.tech)** — Full-stack tool optimizing Indian stock portfolios using dynamic NSE ticker data.
-- 🫀 **[Heart Disease Predictor](https://github.com/SakshamDev/heart-disease-prediction)** — ML classification pipeline achieving 86.67% accuracy through custom feature engineering.
-- 💻 **[Developer Portfolio](https://github.com/SakshamDev/portfolio)** — A clean, responsive portfolio showcasing custom canvas-rendered animations.
+</div>
 
-### 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamgupta19)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0a0a0a?style=flat&logo=Vercel&logoColor=fbbf24)](https://github.com/SakshamDev/portfolio)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:visit.sakshamx@gmail.com)
+---
+
+## `$ whoami`
+
+```python
+class Saksham:
+    def __init__(self):
+        self.name        = "Saksham Gupta"
+        self.alias       = "SakshamDev"
+        self.university  = "BITS Pilani, Hyderabad Campus"
+        self.degree      = "B.E. Electrical & Electronics Engineering"
+        self.year        = "First Year"
+
+        self.communities = ["ACM BPHC — ML Team", "IEEE Student Branch — ML/Ops"]
+        self.interests   = ["Machine Learning", "Healthcare AI", "Edge ML", "Quant Research"]
+        self.superpower  = "Seeing circuits in neural nets and neurons in circuits"
+
+    def currently(self):
+        return {
+            "building"  : "Indian Equity Portfolio Optimizer (MPT + full-stack)",
+            "studying"  : "Advanced ML, arXiv paper replications in PyTorch",
+            "targeting" : "GSoC 2026",
+            "vibe"      : "🎸 Detoxing"
+        }
+
+    def __repr__(self):
+        return "Human(curious=True, caffeine_dependent=True, will_figure_it_out=True)"
+```
+
+---
+
+## `$ ls ./projects`
+
+<table>
+<tr>
+<td width="50%">
+
+### 🫀 Heart Disease Predictor
+> *Can an algorithm hear what a stethoscope misses?*
+
+ML classification pipeline on clinical data — custom feature engineering, 86.67% accuracy. Currently adding **SHAP explainability** to make the black box speak.
+
+`Python` `Scikit-Learn` `Pandas` `SHAP`
+
+[![Repo](https://img.shields.io/badge/view_repo-161b22?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/SakshamDev/heart-disease-prediction)
+
+</td>
+<td width="50%">
+
+### 📈 Indian Equity Optimizer
+> *Markowitz never traded on NSE. I'm fixing that.*
+
+Full-stack web tool computing optimal portfolio weights using Modern Portfolio Theory — live NSE ticker data, efficient frontier visualization.
+
+`Python` `React` `Flask` `NSE API`
+
+[![Live](https://img.shields.io/badge/live_demo-161b22?style=for-the-badge&logo=vercel&logoColor=00FF88)](https://portfolio-optimizer.sakshamdev.tech) [![Repo](https://img.shields.io/badge/view_repo-161b22?style=for-the-badge&logo=github&logoColor=00FF88)](https://github.com/SakshamDev/portfolio-optimizer)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `$ cat ./tech_stack.json`
+
+```json
+{
+  "languages": {
+    "proficient" : ["Python", "C", "C++", "JavaScript"],
+    "markup"     : ["HTML", "CSS", "Markdown"]
+  },
+  "ml_toolkit": {
+    "core"       : ["Scikit-Learn", "NumPy", "Pandas", "Matplotlib"],
+    "learning"   : ["PyTorch", "SHAP", "HuggingFace Transformers"]
+  },
+  "web": {
+    "frontend"   : ["React", "HTML/CSS"],
+    "backend"    : ["Node.js", "Flask"]
+  },
+  "tools"       : ["Git", "GitHub", "VS Code", "Jupyter", "Linux"],
+  "status"      : "actively_upgrading"
+}
+```
+
+---
+
+## `$ top --processes`
+
+```
+PID   PROCESS                     CPU    STATUS
+───   ─────────────────────────   ────   ──────────────────────────────
+001   gsoc_prep.service           HIGH   🟢 active  — exploring orgs
+002   pytorch_papers.exe          HIGH   🟢 active  — replicating arXiv
+003   heart_disease_v2.py         MED    🟡 building — adding SHAP + deploy
+004   quant_alpha_research.sh     MED    🟡 active  — WorldQuant-style sims
+005   ml_internship_hunt.cron     LOW    🔵 running — remote applications
+006   eee_coursework.ko           BG     ⚪ always running (it's a degree)
+```
+
+---
+
+## `$ git log --oneline --graph`
+
+```
+* 🧠  Working on NLP & Computer Vision projects (RAG, YOLOv8)
+* 📊  Deployed Indian Equity Portfolio Optimizer
+* 🫀  Built Heart Disease Predictor — 86.67% accuracy
+* 🌐  Custom portfolio site with canvas animations
+* ⚡  Joined ACM BPHC ML Team + IEEE ML/Ops Team
+* 🎓  Started B.E. EEE @ BITS Pilani, Hyderabad
+```
+
+---
+
+## `$ ping --social`
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Saksham_Gupta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sakshamgupta19)
+[![Email](https://img.shields.io/badge/Email-visit.sakshamx%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:visit.sakshamx@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-sakshamdev.tech-00FF88?style=for-the-badge&logo=vercel&logoColor=black)](https://github.com/SakshamDev/portfolio)
+
+</div>
+
+---
+
+## `$ htop --github-stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=SakshamDev&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&icon_color=00FF88&text_color=c9d1d9" height="160"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SakshamDev&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF88&text_color=c9d1d9" height="160"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SakshamDev&theme=dark&hide_border=true&background=0d1117&ring=00FF88&fire=00FF88&currStreakLabel=00FF88)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║   "The best way to predict the future is to          ║
+║    build it — one commit at a time."                 ║
+║                                                      ║
+║   [ saksham@github ~]$ _                             ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
+```
+
+![Profile Views](https://komarev.com/ghpvc/?username=SakshamDev&color=00FF88&style=for-the-badge&label=PROFILE+VISITORS)
 
 </div>
